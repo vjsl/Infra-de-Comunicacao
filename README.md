@@ -1,2 +1,2 @@
 # Infraestrutura de Comunicacão
-Repositorio do projeto Final da disciplina de Infraestrutura de Comunicacao - CIn - UFPE.
+Repositório do projeto final da disciplina de Infraestrutura de Comunicacão - CIn - UFPE.
