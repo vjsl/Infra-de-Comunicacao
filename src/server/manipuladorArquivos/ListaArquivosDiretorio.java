@@ -9,14 +9,6 @@ public class ListaArquivosDiretorio {
 	public ListaArquivosDiretorio(){
 		
 	}
-	/*teste
-	public static void main(String[] args){
-		File[] lista = lista();
-		for(int i = 0; i < lista.length;i++){
-			System.out.println(lista[i].getName());
-		}
-	}
-	*/
 	public static File[] lista(){
 		File diretorio = new File(MUSIC_DIR);
 		File[] arquivos = diretorio.listFiles();
