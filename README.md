@@ -1,2 +1,2 @@
-# Infra-de-Comunicacao
-Reposit√≥rio do projeto Final da disciplina de Infraestrutura de Comunica√ß√£o - CIn - UFPE.
+# Infraestrutura de Comunicac„o
+RepositÛrio do projeto final da disciplina de Infraestrutura de Comunicac„o - CIn - UFPE.
